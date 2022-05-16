@@ -15,6 +15,8 @@ datetime
 This python script logs the (1, 7, 14) day APR for each osmosis liquidity pool. With some help from pyinstaller and windows task scheduler (shown below) it can run daily at your preffered time for your very own running APR data set! 
 Thanks for choosing Logical!
 
+*please note that the relavant file path to your machiine must be added in source code lines 25 and 44 (annotated with comments) to direct the script where to save your files*
+
 ![Screenshot osmo logger1](https://user-images.githubusercontent.com/100737462/168699649-8b926eee-62d1-4508-8bf1-307d1a2797e6.png)
 
 ![Screenshot osmo logger2](https://user-images.githubusercontent.com/100737462/168699769-d20adb7d-031e-427a-9671-16a330f5ded2.png)
